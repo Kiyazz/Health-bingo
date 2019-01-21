@@ -19,6 +19,9 @@ public class RuntimeThread implements Runnable {
 				}
 			p = new QuestionPicker();
 			QuestionPicker.questionsWrong = 0;
+			for (int i = 0; i < 16; i++) {
+				p.green.set(i, false);
+			}
 			while (true) {
 				try {
 					Thread.sleep(1000);

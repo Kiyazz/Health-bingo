@@ -243,6 +243,54 @@ public class AClass {
 			if (RuntimeThread.p.green.get(15)) {
 				b15.setBackground(Color.GREEN);
 			}
+			if (!RuntimeThread.p.green.get(0)) {
+				b0.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(1)) {
+				b1.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(2)) {
+				b2.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(3)) {
+				b3.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(4)) {
+				b4.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(5)) {
+				b5.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(6)) {
+				b6.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(7)) {
+				b7.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(8)) {
+				b8.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(9)) {
+				b9.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(10)) {
+				b10.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(11)) {
+				b11.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(12)) {
+				b12.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(13)) {
+				b13.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(14)) {
+				b14.setBackground(Color.CYAN);
+			}
+			if (!RuntimeThread.p.green.get(15)) {
+				b15.setBackground(Color.CYAN);
+			}
 			} 
 			catch (NullPointerException e) {
 				
